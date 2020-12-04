@@ -1,0 +1,7 @@
+
+jorge, jorge@jorge.com,"subjectA, subjectB",mensagem
+jorge, jorge@jorge.com,"subjectA, subjectB",mensagem
+teste, teste@jorge.eu,"subjectB",etset
+jorge, jorgecar@lsjldkhf.com,"subjectB, subjectC",ola
+ksdjks, de@sws.com,"subjectC",hg
+joerge, jorge@sdi.com,"subjectA, subjectB, subjectC",sdfsf

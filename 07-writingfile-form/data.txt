@@ -1,0 +1,8 @@
+jorge, jorge@server.com
+andre, andre@server.com
+jorge, jorge@uc.pt
+maria, maria@uc.pt
+lkdsfjsd, sdfds@sdfds.com
+lkdsfjsd, 
+jorge, jorge@ieee.org
+jorge, jorge@domain.com

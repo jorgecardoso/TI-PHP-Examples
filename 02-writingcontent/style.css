@@ -1,0 +1,10 @@
+header {
+    height: 100px;
+    background-color: lightsalmon;
+    font-size: 200%;
+}
+
+footer{
+    height:50px;
+    background-color: lightcoral;
+}

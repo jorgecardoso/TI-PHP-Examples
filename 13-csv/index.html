@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="processform.php" method="POST">
+    <label>Name: <input type="text" name="name"></label>
+    <br>
+    <label>Email: <input type="email" name="email"></label>
+    <br>
+    <label>Subjects:
+        <select name="subjects[]" multiple>
+        <option value="subjectA">Subject A</option>
+        <option value="subjectB">Subject B</option>
+        <option value="subjectC">Subject C</option>
+        <option value="subjectD">Subject D</option>
+        </select>
+    </label>
+    <br>
+    <label>Message: <input type="message" name="message"></label>
+    <br>
+    <input type="submit">
+</form>
+</body>
+</html>
